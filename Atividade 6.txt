@@ -1,0 +1,22 @@
+Desenvolvimento de um PWA (Progressive Web App)
+
+1) Pesquisa (google, YouTube, chatgpt etc)
+   - Pesquisar mais sobre o tema PWA
+   - Pesquisar mais recursos do manifest.json
+   - Pesquisar mais funcionalidades do service worker
+
+2) Desenvolver um PWA (com foco no smartphone)
+   - Escolher um exercício dos professores ou criar um novo
+   - Deixar o APP 100% responsivo e centralizado (testar no browser iphone 6,7 e 8)
+   - Não pode girar a tela
+   - Aplicar algum recurso no manifesto que não foi ensinado em aula
+   - Aplicar algum recurso no Service Worker que não foi ensinado em aula
+
+3) GitHub     
+   - Criar um repositório no GitHub
+   - Hospedar o projeto
+   - Personalizar o README.md (Título, descrição, selos de metadados (licença, validação (w3c e CSS) e status do servidor)
+   - Gerar um QRCode do App
+     
+   
+
